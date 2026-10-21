@@ -1,0 +1,6 @@
+VOIDMC STORE 18.0 — PIX NUBANK EM PREPARAÇÃO
+
+Abra index.html. O checkout gera apenas um PRÉ-PEDIDO local, sem Pix, cobrança ou entrega.
+Os pedidos são guardados somente no navegador do comprador (localStorage), NÃO chegam à loja.
+NÃO publique como checkout real. Para receber pedidos online, é necessário backend, banco de dados, autenticação de administrador e confirmação de recebimento por um responsável.
+Não coloque chave Pix pessoal, senha ou dados bancários no HTML/JavaScript.
